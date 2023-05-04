@@ -8,5 +8,5 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 - Notification Popups
 - Custom Hotkeys
 
-NOTE:
-You need to instal pytesseract inorder to use this. The download for pytesseract can be found [here](https://pypi.org/project/pytesseract/)
+**NOTE:**
+You will need to install pytesseract inorder to use this. The download for pytesseract can be found [here](https://pypi.org/project/pytesseract/)
