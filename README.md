@@ -6,7 +6,7 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 ## Features
 - A snipping tool mechanism
 - Notification Popups
-- Custom Hotkeys
+- Programmable Hotkeys
 
 **NOTE:**
 You will need to install pytesseract inorder to use this. The download for pytesseract can be found [here](https://pypi.org/project/pytesseract/)
