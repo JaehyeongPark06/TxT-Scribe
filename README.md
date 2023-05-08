@@ -16,15 +16,10 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 
 ### Libraries/Packages
 - [PySide6 (Qt)](https://pypi.org/project/PySide6/)
-
 - [pytesseract](https://pypi.org/project/pytesseract/)
-
 - [Pillow, PIL](https://github.com/python-pillow/Pillow/)
-
 - [pynput, keyboard](https://pypi.org/project/pynput/)
-
 - [pyperclip](https://pypi.org/project/pyperclip/)
-
 - [pynotifier](https://pypi.org/project/py-notifier/)
 
 ## Features
