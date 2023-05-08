@@ -7,7 +7,6 @@
 A rudimentary OCR - image reader that can extract text from images and copy it to the user's clipboard.
 
 ## Built With
-### Language(s)
 - Python
 
 ### Libraries/Packages
