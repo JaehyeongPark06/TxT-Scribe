@@ -1,5 +1,7 @@
 # TxT-Scribe
 
+![TxTScribe](https://user-images.githubusercontent.com/78674944/236726857-b2feb3d5-40bd-4377-ab2a-5f8a326311e6.gif)
+
 ## About
 
 **NOTE:**
