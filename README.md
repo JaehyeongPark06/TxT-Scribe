@@ -9,7 +9,7 @@ You will need to install the pytesseract OCR inorder to use this. The download f
 
 A rudimentary OCR - image reader that can extract text from images and copy it to the user's clipboard.
 
-### Built With
+## Built With
 #### Language(s)
 - Python
 
