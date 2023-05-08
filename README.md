@@ -6,9 +6,7 @@
 
 A rudimentary OCR - image reader that can extract text from images and copy it to the user's clipboard.
 
----
-
-### Built With
+## Built With
 #### Language(s)
 - Python
 
@@ -19,8 +17,6 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 - [pynput, keyboard](https://pypi.org/project/pynput/)
 - [pyperclip](https://pypi.org/project/pyperclip/)
 - [pynotifier](https://pypi.org/project/py-notifier/)
-
----
 
 ## Features
 - A snipping tool mechanism
