@@ -7,10 +7,10 @@
 A rudimentary OCR - image reader that can extract text from images and copy it to the user's clipboard.
 
 ## Built With
-#### Language(s)
+### Language(s)
 - Python
 
-#### Libraries/Packages
+### Libraries/Packages
 - [PySide6 (Qt)](https://pypi.org/project/PySide6/)
 - [pytesseract, OCR](https://pypi.org/project/pytesseract/)
 - [Pillow, PIL](https://github.com/python-pillow/Pillow/)
