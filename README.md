@@ -4,16 +4,17 @@
 
 ## About
 
-##### **NOTE:**
+### **NOTE:**
+
 You will need to install the pytesseract OCR inorder to use this. The download for pytesseract can be found [here](https://pypi.org/project/pytesseract/)
 
 A rudimentary OCR - image reader that can extract text from images and copy it to the user's clipboard.
 
 ## Built With
-#### Language(s)
+### Language(s)
 - Python
 
-#### Libraries/Packages
+### Libraries/Packages
 - [PySide6 (Qt)](https://pypi.org/project/PySide6/)
 
 - [pytesseract](https://pypi.org/project/pytesseract/)
