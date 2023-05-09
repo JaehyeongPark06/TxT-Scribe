@@ -23,7 +23,12 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 - Notification Popups
 - Programmable Hotkeys
 
+## Getting Started
+1. Download all the packages using pip or conda
+2. Run the program and press the default hotkey (ctrl + alt + g)
+
 ## Possible Improvements
 - Packaging it into a background app (system tray like [lightshot](https://app.prntscr.com/en/index.html))
 - Customizable hotkey menu when a user right clicks the icon in the system tray
 - Using a better OCR model
+
