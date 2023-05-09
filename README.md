@@ -19,7 +19,7 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 - [pynotifier](https://pypi.org/project/py-notifier/)
 
 ## Features
-- Snipping Tool Mechanism
+- Snipping Tool
 - Notification Popups
 - Programmable Hotkeys
 
