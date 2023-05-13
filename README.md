@@ -29,4 +29,4 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 - Using a better OCR model
 
 ## License
-See [License](https://github.com/JaehyeongPark06/Txt-Scribe/LICENSE)
+See [License](https://github.com/JaehyeongPark06/TxT-Scribe/blob/main/LICENSE)
