@@ -21,7 +21,7 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 
 ## Getting Started
 1. Download all the packages using pip or conda
-2. Run the program and press the default hotkey (ctrl + alt + g)
+2. Run the program and press the default hotkey (ctrl + alt + g) or adjust it to your liking
 
 ## Possible Improvements
 - Packaging it into a background app (system tray like [lightshot](https://app.prntscr.com/en/index.html))
