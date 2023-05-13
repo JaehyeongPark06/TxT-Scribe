@@ -6,17 +6,13 @@
 
 A rudimentary OCR - image reader that can extract text from images and copy it to the user's clipboard.
 
-## Technologies Used
-### Languages
-- Python
-
-### Libraries/Packages
-- [PySide6 (Qt)](https://pypi.org/project/PySide6/)
-- [pytesseract, OCR](https://pypi.org/project/pytesseract/)
-- [Pillow, PIL](https://github.com/python-pillow/Pillow/)
-- [pynput, keyboard](https://pypi.org/project/pynput/)
-- [pyperclip](https://pypi.org/project/pyperclip/)
-- [pynotifier](https://pypi.org/project/py-notifier/)
+## Libraries and Tools Used
+- [PySide6 (Qt)](https://pypi.org/project/PySide6/) for the GUI framework.
+- [pytesseract, OCR](https://pypi.org/project/pytesseract/) for reading and identifying the text in the snipped image.
+- [Pillow, PIL](https://github.com/python-pillow/Pillow/) for image handling.
+- [pynput, keyboard](https://pypi.org/project/pynput/) for hotkey mapping.
+- [pyperclip](https://pypi.org/project/pyperclip/) for copying extracted text to the users clipboard.
+- [pynotifier](https://pypi.org/project/py-notifier/) for notifying the user if their text was copied, or if the program ran into an error.
 
 ## Features
 - Snipping Tool
@@ -32,3 +28,5 @@ A rudimentary OCR - image reader that can extract text from images and copy it t
 - Customizable hotkey menu when a user right clicks the icon in the system tray
 - Using a better OCR model
 
+## License
+See [License](https://github.com/JaehyeongPark06/Txt-Scribe/LICENSE)
