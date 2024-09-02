@@ -1,6 +1,6 @@
 # TxT-Scribe
 
-![TxTScribe Sample Use](https://user-images.githubusercontent.com/78674944/236726857-b2feb3d5-40bd-4377-ab2a-5f8a326311e6.gif)
+https://github.com/user-attachments/assets/ec50669d-964b-4a3f-a884-6106c03bc1f3
 
 ## About
 
